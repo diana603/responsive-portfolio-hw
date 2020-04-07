@@ -1,0 +1,24 @@
+nav.navbar {
+    background: rgba(255, 0, 116, 0.5);
+}
+a.my-brand {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 34px;
+}
+a.nav-link {
+    color: aliceblue;
+
+}
+div.main-box {
+    border: 5px solid aquamarine ;
+}
+hr {
+    border-top: 3px solid lightblue;
+}
+img.profile-pic {
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+}
