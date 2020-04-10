@@ -27,3 +27,10 @@ img.boston-pic {
     padding-top: 10px;
     padding-bottom: 15px;
 }
+.footer {
+    background-color: gray;
+}
+
+div.background {
+    background-image: url(../imgs/Ocean.jpg);
+}
