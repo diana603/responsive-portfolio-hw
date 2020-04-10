@@ -1,5 +1,5 @@
 nav.navbar {
-    background: rgba(255, 0, 116, 0.5);
+    background: lightskyblue;
 }
 a.my-brand {
     color: aliceblue;
@@ -11,10 +11,10 @@ a.nav-link {
 
 }
 div.main-box {
-    border: 5px solid aquamarine ;
+    border: 5px solid black;
 }
 hr {
-    border-top: 3px solid lightblue;
+    border-top: 3px solid black;
 }
 img.profile-pic {
     height: 200px;
@@ -22,3 +22,4 @@ img.profile-pic {
     float: left;
     margin-right: 15px;
 }
+
