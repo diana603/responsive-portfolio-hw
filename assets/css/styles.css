@@ -34,3 +34,7 @@ img.boston-pic {
 div.background {
     background-image: url(../imgs/Ocean.jpg);
 }
+
+div.content {
+    min-height: 700px;
+}
