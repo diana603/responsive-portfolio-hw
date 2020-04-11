@@ -11,7 +11,7 @@ a.nav-link {
 
 }
 div.main-box {
-    border: 5px solid black;
+    border: 5px solid lightskyblue;
 }
 hr {
     border-top: 3px solid black;
@@ -37,4 +37,14 @@ div.background {
 
 div.content {
     min-height: 700px;
+}
+
+.boston-pic {
+    height: 180px;
+    width: 180px;
+}
+
+.icon {
+    height: 160px;
+    width: 160px;
 }
