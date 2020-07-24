@@ -23,9 +23,9 @@ img.profile-pic {
     margin-right: 15px;
 }
 
-img.boston-pic {
-    padding-top: 10px;
-    padding-bottom: 15px;
+img.resume {
+    height: 180px;
+    width: 180px;
 }
 .footer {
     background-color: gray;
